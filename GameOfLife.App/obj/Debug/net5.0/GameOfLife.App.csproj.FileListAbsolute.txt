@@ -1,0 +1,16 @@
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.deps.json
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.runtimeconfig.json
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.runtimeconfig.dev.json
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.dll
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/ref/GameOfLife.App.dll
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/bin/Debug/net5.0/GameOfLife.App.pdb
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.csprojAssemblyReference.cache
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.AssemblyInfoInputs.cache
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.AssemblyInfo.cs
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.csproj.CoreCompileInputs.cache
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.dll
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/ref/GameOfLife.App.dll
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.pdb
+/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/obj/Debug/net5.0/GameOfLife.App.genruntimeconfig.cache

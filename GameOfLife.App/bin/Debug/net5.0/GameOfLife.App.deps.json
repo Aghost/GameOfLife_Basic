@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GameOfLife.App/1.0.0": {
+        "runtime": {
+          "GameOfLife.App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameOfLife.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
