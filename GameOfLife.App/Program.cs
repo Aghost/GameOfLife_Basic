@@ -1,4 +1,5 @@
 ﻿using System;
+using GameOfLife.Data;
 
 namespace GameOfLife.App
 {
@@ -6,9 +7,18 @@ namespace GameOfLife.App
     {
         static void Main(string[] args)
         {
-            CellGrid cg = new CellGrid("default_map", 64);
+            int GridSize = 64;
+            CellGrid cg = new CellGrid("maps/default_map", GridSize);
 
-            Console.WriteLine("Hello World!");
+            // Simpele loop om te laten zien dat de classes werken
+            while (true) {
+                if (Console.ReadLine() == "exit")
+                    break;
+
+                cg.ApplyRules();
+                cg.PrintCells(GridSize); 
+            }
         }
+
     }
 }

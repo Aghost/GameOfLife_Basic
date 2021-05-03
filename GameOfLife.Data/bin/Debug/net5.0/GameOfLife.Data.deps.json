@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "GameOfLife.App/1.0.0": {
-        "dependencies": {
-          "GameOfLife.Data": "1.0.0"
-        },
-        "runtime": {
-          "GameOfLife.App.dll": {}
-        }
-      },
       "GameOfLife.Data/1.0.0": {
         "runtime": {
           "GameOfLife.Data.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "GameOfLife.App/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "GameOfLife.Data/1.0.0": {
       "type": "project",
       "serviceable": false,

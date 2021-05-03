@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1jbQ5/ZkSZeTE+qnBiw8QIPc9LEGPP05bclD8bgtidyUhyAlkwX+1WlikmvrdxBXdNzV06wv15fc44fUywv/Cg==",
+  "dgSpecHash": "6yuxzbIXGU6uD32lc8GKLQ3YisJSfjmr5aWPscxnPhUmH+jGm054hATR1fBxLxnmgdK3se5aWCcdYs8lsL9USg==",
   "success": true,
-  "projectFilePath": "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/GameOfLife.Data.csproj",
+  "projectFilePath": "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/GameOfLife.Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

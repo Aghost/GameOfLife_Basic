@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GBcM8weW4OQ9qfcyBIvXvablTPdf2QurOwuaOFGS1vT6YoXSzT/70zicjS0BY6Bo0xRQAW8RefP460SA8KvgA==",
+  "dgSpecHash": "MJyds4DwQ4ij1norIyqtFMf5hHbI5m5agUFmsV6g0iBg09oyva8gGr/QEFLDjaXVmkh3YNzHXn9vaEq0/IMqbA==",
   "success": true,
-  "projectFilePath": "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.App/GameOfLife.App.csproj",
+  "projectFilePath": "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.App/GameOfLife.App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

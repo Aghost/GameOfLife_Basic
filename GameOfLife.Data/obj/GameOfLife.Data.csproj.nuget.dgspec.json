@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/GameOfLife.Data.csproj": {}
+    "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/GameOfLife.Data.csproj": {}
   },
   "projects": {
-    "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/GameOfLife.Data.csproj": {
+    "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/GameOfLife.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/GameOfLife.Data.csproj",
+        "projectUniqueName": "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/GameOfLife.Data.csproj",
         "projectName": "GameOfLife.Data",
-        "projectPath": "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/GameOfLife.Data.csproj",
+        "projectPath": "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/GameOfLife.Data.csproj",
         "packagesPath": "/home/deploy/.nuget/packages/",
-        "outputPath": "/home/deploy/1-dotnet-projects/Gol_Simple/GameOfLife.Data/obj/",
+        "outputPath": "/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/deploy/.nuget/NuGet/NuGet.Config"

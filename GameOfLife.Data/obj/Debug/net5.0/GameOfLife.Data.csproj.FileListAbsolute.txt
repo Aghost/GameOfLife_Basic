@@ -1,0 +1,12 @@
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.csprojAssemblyReference.cache
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.AssemblyInfoInputs.cache
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.AssemblyInfo.cs
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.csproj.CoreCompileInputs.cache
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/bin/Debug/net5.0/GameOfLife.Data.deps.json
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/bin/Debug/net5.0/GameOfLife.Data.dll
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/bin/Debug/net5.0/ref/GameOfLife.Data.dll
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/bin/Debug/net5.0/GameOfLife.Data.pdb
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.dll
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/ref/GameOfLife.Data.dll
+/home/deploy/3-git-projects/GameOfLife_Basic/GameOfLife.Data/obj/Debug/net5.0/GameOfLife.Data.pdb

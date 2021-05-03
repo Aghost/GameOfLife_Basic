@@ -3,9 +3,9 @@ using System.IO;
 using System.Text;
 using System.Linq;
 using System.Collections.Generic;
-using TermOs.Utils;
+//using GameOfLife.Utils;
 
-namespace GameOfLife
+namespace GameOfLife.Data
 {
     public class CellGrid
     {
